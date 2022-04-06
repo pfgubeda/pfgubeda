@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrpafego" target="blank"><img src="https://img.shields.io/twitter/follow/mrpafego?logo=twitter&style=for-the-badge" alt="mrpafego" /></a> </p>
 
-- 🔭 I’m currently working on **Libretina**
+- 🔭 I’m currently working on **Libretina**, a colaborative tool for education.
 
 - 🌱 I’m currently learning **Angular, Symfony, Larabel and css animation tricks**
 
