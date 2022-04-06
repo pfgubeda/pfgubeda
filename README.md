@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo Fernández</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpr1005&label=Profile%20views&color=0e75b6&style=flat" alt="dpr1005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pfgubeda&label=Profile%20views&color=0e75b6&style=flat" alt="pfgubeda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpr1005" alt="dpr1005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pfgubeda" alt="pfgubeda" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mrpafego" target="blank"><img src="https://img.shields.io/twitter/follow/mrpafego?logo=twitter&style=for-the-badge" alt="mrpafego" /></a> </p>
 
