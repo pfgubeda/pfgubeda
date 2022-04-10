@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Fernández</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate frontend developer from Los Cerros De Úbeda, where I live with my wife and 7 kids.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfgubeda&label=Profile%20views&color=0e75b6&style=flat" alt="pfgubeda" /> </p>
 
@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **Libretina**, a colaborative tool for education.
 
-- 🌱 I’m currently learning **Angular, Symfony, Larabel and css animation tricks**
+- 🌱 I’m currently learning **Angular, Symfony, Larabel and CSS animation tricks**
 
-- 📝 I regularly write articles on [http://www.pafego.com](http://www.pafego.com)
+- 📝 I regularly write articles on [http://www.pafego.com](http://www.pafego.com), go check them out!!
 
-- 💬 Ask me about **anything related to mobile programming (c#, xamarin or swift)**
+- 💬 Ask me about **anything related to mobile programming (c#, xamarin or swift)**.
 
 - 📫 How to reach me **pafegolinked@gmail.com**
 
-- ⚡ Fun fact **Csgo tryhard and videogames enjoyer**
+- ⚡ Fun fact **CSGO tryhard (non russian) and videogames enjoyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
