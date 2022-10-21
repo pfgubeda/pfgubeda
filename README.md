@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/mrpafego" target="blank"><img src="https://img.shields.io/twitter/follow/mrpafego?logo=twitter&style=for-the-badge" alt="mrpafego" /></a> </p>
 
-- 🔭 I’m currently working on Java microservices & **Libretina**, a colaborative tool for education.
+- 🔭 I’m currently working on **Java microservices** & **Libretina**, a colaborative tool for education.
 
 - 🌱 I’m currently learning **Java & Swift**
 
-- 💬 Ask me about **anything related to mobile programming (c#, xamarin or swift) or java microservices with kafka**
+- 💬 Ask me about **anything related to mobile programming** (c#, xamarin or swift) or **java microservices with kafka**
 
 - 📫 How to reach me **pafegolinked@gmail.com**
 
