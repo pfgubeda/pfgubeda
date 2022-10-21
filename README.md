@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pafegolinked@gmail.com**
 
-- ⚡ Fun fact **Csgo tryhard and videogames enjoyer**
+- ⚡ Fun fact **Csgo tryhard** and videogames enjoyer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
