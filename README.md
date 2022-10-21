@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pablo Fernández</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfgubeda&label=Profile%20views&color=0e75b6&style=flat" alt="pfgubeda" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/mrpafego" target="blank"><img src="https://img.shields.io/twitter/follow/mrpafego?logo=twitter&style=for-the-badge" alt="mrpafego" /></a> </p>
 
-- 🔭 I’m currently working on **Libretina**, a colaborative tool for education.
+- 🔭 I’m currently working on Java microservices & **Libretina**, a colaborative tool for education.
 
-- 🌱 I’m currently learning **Angular, Symfony, Larabel and css animation tricks**
+- 🌱 I’m currently learning **Java & Swift**
 
-- 📝 I regularly write articles on [http://www.pafego.com](http://www.pafego.com)
-
-- 💬 Ask me about **anything related to mobile programming (c#, xamarin or swift)**
+- 💬 Ask me about **anything related to mobile programming (c#, xamarin or swift) or java microservices with kafka**
 
 - 📫 How to reach me **pafegolinked@gmail.com**
 
