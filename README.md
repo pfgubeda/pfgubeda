@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Java microservices** & **Libretina**, a colaborative tool for education.
 
-- 🌱 I’m currently learning **Java & Swift**
+- 🌱 I’m currently learning **Swift and React**
 
-- 💬 Ask me about **anything related to mobile programming** (c#, xamarin or swift) or **java microservices with kafka**
+- 💬 Ask me about **anything related to mobile programming** or **java microservices**
 
 - 📫 How to reach me **pafegolinked@gmail.com**
 
