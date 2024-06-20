@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/mrpafego" target="blank"><img src="https://img.shields.io/twitter/follow/mrpafego?logo=twitter&style=for-the-badge" alt="mrpafego" /></a> </p>
 
-- 🔭 I’m currently working on **BSH** & **Hiberus**.
+- 🔭 I’m currently working at **BSH Content Download** & **Hiberus**.
 
-- 🌱 I’m currently learning **Swift and React Native**
+- 🌱 I’m currently learning **SwiftUI**
 
-- 💬 Ask me about **anything related to mobile** or **AR programming**
+- 💬 Ask me about **anything related to native iOS mobile development**
 
 - 📫 How to reach me **pafegolinked@gmail.com**
 
